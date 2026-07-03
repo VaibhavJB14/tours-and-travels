@@ -1,0 +1,12 @@
+﻿@import "tailwindcss";
+
+:root {
+  /* Our custom luxury brand colors */
+  --color-brand-50: #f0fdfa;
+  --color-brand-500: #14b8a6;
+  --color-brand-900: #134e4a;
+}
+
+html {
+  scroll-behavior: smooth;
+}
